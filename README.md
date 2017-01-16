@@ -1,1 +1,1 @@
-# p2_traffic_signs
+# Udacity traffic sign classifier challenge
